@@ -1,0 +1,12 @@
+
+
+
+.empName{
+  display: flex;
+  flex-direction: row;
+}
+.empRow{
+  display: flex;
+  flex-direction: row;
+
+}
